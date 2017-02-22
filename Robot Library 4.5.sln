@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot Library 4.5", "Robot Library 4.5\Robot Library 4.5.csproj", "{B08489C0-0C3D-46F3-8B02-36CE3BA861EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Library 4.5", "..\Matrix Library 4.5\Matrix Library 4.5\Matrix Library 4.5.csproj", "{756548CB-DC0B-4AF1-BF64-44BCA543954C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08489C0-0C3D-46F3-8B02-36CE3BA861EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08489C0-0C3D-46F3-8B02-36CE3BA861EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08489C0-0C3D-46F3-8B02-36CE3BA861EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08489C0-0C3D-46F3-8B02-36CE3BA861EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756548CB-DC0B-4AF1-BF64-44BCA543954C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756548CB-DC0B-4AF1-BF64-44BCA543954C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756548CB-DC0B-4AF1-BF64-44BCA543954C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756548CB-DC0B-4AF1-BF64-44BCA543954C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
